@@ -20,6 +20,8 @@ All you need to do before hand is place your mug in the designated spot and ensu
 Teabags are at the front of the box (there is a push mechanism on the box so you can push 
 the teabags to the front, just make sure they don’t fall forward)
 
+HERE IS A LINK TO THE VIDEO DEMO: https://drive.google.com/file/d/1Qclfc2GxgefrS8nO8vCEBZJUxsd6ilDe/view?usp=sharing
+
 Step 1: 
 
 Marked by the number 1, obviously the first step to making a cup of tea is the teabag!
