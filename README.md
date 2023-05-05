@@ -1,5 +1,5 @@
 # TEAZE
-	                                                		—————— TEAZE README FILE ——————
+	                                         	—————— TEAZE README FILE ——————
 
 
 I introduce you to TEAZE! The Tea-making robot that will cater to your every tea-need 
