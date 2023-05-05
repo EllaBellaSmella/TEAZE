@@ -1,5 +1,5 @@
-# TEAZE
-	                                         	—————— TEAZE README FILE ——————
+		
+						—————— teazE README FILE ——————
 
 
 I introduce you to TEAZE! The Tea-making robot that will cater to your every tea-need 
@@ -9,7 +9,7 @@ any robot we desired.
 This README file has the steps on how to use the robot and then a section explaining 
 the process of development and creation of my tea-tastic bot!
 
-Teaze has 4 easy steps to ensure you have the perfect cup of tea!
+teazE has 4 easy steps to ensure you have the perfect cup of tea!
 
 Each step is controlled by a button so you can make your tea just the way you like it. 
 Each button is labeled so you know which button does what because even though I’ve put
@@ -66,7 +66,7 @@ If you are’t satisfied with the amount your brew has been stirred, press the b
 round of stirring will commence. 
 
 
-The process of making Teaze:
+The process of making teazE:
 
 When I initially thought of this idea to make a robot that makes a cup of tea there was so many ideas
 running through my brain. The first task I challenged myself with was getting each component to turn on
@@ -125,14 +125,14 @@ http://www.learningaboutelectronics.com/Articles/Peristaltic-pump-circuit-with-a
 
 Slides provided by my module lecturers helped me grasp how to wire and implement code for the robot arm.
 Examples of the slides most useful are below:
+￼
 
-![image](https://user-images.githubusercontent.com/116017905/236448154-dfd3d735-a8e4-46bc-86f0-04b88ec9eca8.png)
+￼
 
-![image](https://user-images.githubusercontent.com/116017905/236448210-a0c7b031-ec86-4588-91f1-257f401d998a.png)
+￼
 
-![image](https://user-images.githubusercontent.com/116017905/236448251-ea80ec2d-b143-4c29-b6b3-36add210a6e9.png)
 
-Thank you for taking the time to read this file and hopefully Teaze brings you as much joy as it did to me 
+Thank you for taking the time to read this file and hopefully teazE brings you as much joy as it did to me 
 whilst I was making her.
 
 Any questions, please email me at: b9001319@my.shu.ac.uk
