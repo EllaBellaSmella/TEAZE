@@ -125,12 +125,11 @@ http://www.learningaboutelectronics.com/Articles/Peristaltic-pump-circuit-with-a
 
 Slides provided by my module lecturers helped me grasp how to wire and implement code for the robot arm.
 Examples of the slides most useful are below:
-￼
+![image](https://user-images.githubusercontent.com/116017905/236451731-fbd4207c-5ea2-44bc-958e-c90a41848206.png)
 
-￼
+![image](https://user-images.githubusercontent.com/116017905/236451760-5f2aa6b1-fe7e-4bc5-8db5-e968274cc25b.png)
 
-￼
-
+![image](https://user-images.githubusercontent.com/116017905/236451861-1ac2805e-3b9d-4897-8d32-334b439c86ea.png)
 
 Thank you for taking the time to read this file and hopefully teazE brings you as much joy as it did to me 
 whilst I was making her.
